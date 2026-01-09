@@ -1,0 +1,22 @@
+The 3 sites i visit is: https://www.nike.com/bg/ https://www.apple.com/ https://www.youtube.com/
+In Nike the certificate is issued on 11 June 2025 and is issued by DigiCert.
+In Apple the certificate is issued on 11 September 2025 and is issued by Apple.
+In YouTube the certificate is issued on 3 December 2025 and is issued by Goggle.
+The HTTP site i found is home of the first website  http://info.cern.ch/   and the warning that appear is the site is not secure.
+Hypertext Transfer Protocol (HTTP) is the way servers and browsers talk to each other. 
+It’s a great language for computers but it’s not encrypted. 
+Think of it this way. If everyone in the world spoke English everyone would understand each other. 
+Every browser and server in the world speaks HTTP so if an attacker managed to hack in he could read everything going on in the browser including that Facebook username and password you just typed in.
+Hypertext Transfer Protocol Secure (HTTPS) is another language, except this one is encrypted using Secure Sockets Layer (SSL). 
+Imagine if everyone in the world spoke English except two people who spoke Bulgarian. 
+If you happened to overhear them speaking in Bulgarian you wouldn’t understand them. It’s the same with HTTPS. 
+If browsers use HTTPS to pass information even if attackers manage to capture the data they can’t read the information.
+SSL (Secure Sockets Layer) and TLS (Transport Layer Security) are cryptographic protocols that secure communication over networks 
+with TLS being the modern updated successor to the older SSL used to encrypt data between a web browser and a server 
+ensuring privacy and data integrity visible as "HTTPS" and a padlock icon in browsers.
+An SSL Certificate is like an official ID card for a website. 
+It proves that the website really belongs to who it claims to be. 
+(for example, that your bank’s site is actually your bank and not a fake copy).
+HTTPS is like a secure locked mail for information sent between your computer and a website.
+It keeps things like passwords messages and card details private so hackers can’t read or change them.
+When you see the little lock icon in the browser it means the website is safer to use. 
